@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="ArrayListLec4.h" />
+    <ClInclude Include="BSTLec6and7.h" />
     <ClInclude Include="LinkedListLec5.h" />
     <ClInclude Include="QueueLec3.h" />
     <ClInclude Include="RectangleLec1.h" />
@@ -135,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayListLec4.cpp" />
+    <ClCompile Include="BSTLec6and7.cpp" />
     <ClCompile Include="LinkedListLec5.cpp" />
     <ClCompile Include="QueueLec3.cpp" />
     <ClCompile Include="RectangleLec1.cpp" />

@@ -30,6 +30,9 @@
     <ClInclude Include="LinkedListLec5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="BSTLec6and7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="RectangleLec1.cpp">
@@ -48,6 +51,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="LinkedListLec5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BSTLec6and7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
